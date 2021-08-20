@@ -38,7 +38,11 @@ html {
     height: 80px;
     width: 220px;
     background-color: rgba(106,254,255,255);
-    
+    color: white;
+    font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 .logo-img {
